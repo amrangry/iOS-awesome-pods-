@@ -5,6 +5,13 @@
 ## This project is aiming to list the most needed and awesome pods lib for iOS projects
 
 
+#### git
+```ruby
+https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+```
+
+
+
 
 #### keyboard handler
 ```ruby
@@ -28,6 +35,21 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ```ruby
     pod 'SideMenu'
 ```
+
+
+#### Tab bar
+```ruby
+    https://github.com/itsKaynine/SwiftRaisedTab
+```
+
+
+#### collection 
+```ruby
+    https://github.com/ProudOfZiggy/SIFloatingCollection_Swift
+```
+
+
+
 #### Images
 ```ruby
     pod 'InitialsImageView'
