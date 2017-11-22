@@ -11,16 +11,16 @@ This project is aiming to list the most needed and awesome pods lib for iOS proj
 pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ```
 
-## Network handler
+## `Network handler`
 ```ruby
     pod 'Alamofire', '~> 4.4'     #https://www.raywenderlich.com/147086/alamofire-tutorial-getting-started-2    
     pod 'PromiseKit', '~> 4.4'
 ```
-## Localization
+#### Localization
 ```ruby
     pod 'Localize-Swift', '~> 1.7'
 ```
-## Alerts
+#### Alerts
 ```ruby
     pod 'SCLAlertView'
 ```
