@@ -32,3 +32,16 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ```ruby
     pod 'InitialsImageView'
 ```
+
+
+LICENSE
+---
+Distributed under the MIT License.
+
+Contributions
+---
+Any contribution is more than welcome! You can contribute through pull requests and issues on GitHub.
+
+Author
+---
+If you wish to contact me, email at: amr.elghadban@gmail.com
