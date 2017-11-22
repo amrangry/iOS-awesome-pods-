@@ -1,17 +1,17 @@
 
 <H1 align="center">Awesome Pods</H1>
 
-# iOS-awesome-pods-
-This project is aiming to list the most needed and awesome pods lib for iOS projects
+# `iOS-awesome-pods`
+## This project is aiming to list the most needed and awesome pods lib for iOS projects
 
 
 
-## keyboard handler
+#### keyboard handler
 ```ruby
 pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ```
 
-## `Network handler`
+#### Network handler
 ```ruby
     pod 'Alamofire', '~> 4.4'     #https://www.raywenderlich.com/147086/alamofire-tutorial-getting-started-2    
     pod 'PromiseKit', '~> 4.4'
@@ -44,4 +44,4 @@ Any contribution is more than welcome! You can contribute through pull requests 
 
 Author
 ---
-If you wish to contact me, email at: amr.elghadban@gmail.com
+If you wish to contact me, email @: amr.elghadban@gmail.com
