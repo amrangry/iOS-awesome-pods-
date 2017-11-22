@@ -6,9 +6,10 @@ This project is aiming to list the most needed and awesome pods lib for iOS proj
 
 
 
-##`keyboard handler`
+## keyboard handler
+```ruby
 pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
-
+```
 
 ####`Network handler`
 ```ruby
@@ -18,16 +19,16 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ####`Localization `
 ```ruby
     pod 'Localize-Swift', '~> 1.7'
-    ```
+```
 ####`Alerts`
 ```ruby
     pod 'SCLAlertView'
-    ```
+```
 ####`Side Menu`
 ```ruby
     pod 'SideMenu'
-    ```
+```
 ####`Images`
 ```ruby
     pod 'InitialsImageView'
-    ```
+```
