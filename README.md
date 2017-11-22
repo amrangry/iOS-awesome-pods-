@@ -33,6 +33,12 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
     pod 'InitialsImageView'
 ```
 
+#### animation
+```ruby
+    https://github.com/ameizi/awesome-ios-animation
+```
+
+
 
 LICENSE
 ---
@@ -41,6 +47,10 @@ Distributed under the MIT License.
 Contributions
 ---
 Any contribution is more than welcome! You can contribute through pull requests and issues on GitHub.
+
+Code of Conduct
+---
+I aim to share my knowledge and findings as i work daily to improve our apps, for our community, in a safe and open space. We work as we live, as kind and considerate human beings who learn and grow from giving and receiving positive, constructive feedback.
 
 Author
 ---
