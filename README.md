@@ -8,6 +8,17 @@
 #### git
 ```ruby
 https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+
+
+Setting your branch to exactly match the remote branch can be done in two steps:
+
+git fetch origin
+git reset --hard origin/master
+
+
+resets to the last committed state. In this case HEAD refers to the HEAD of your branch.
+git reset --hard HEAD 
+
 ```
 
 
