@@ -19,6 +19,16 @@ git reset --hard origin/master
 resets to the last committed state. In this case HEAD refers to the HEAD of your branch.
 git reset --hard HEAD 
 
+
+
+refresh new .git file for new user 
+
+rm -rf .git
+
+or 
+
+git init for fresh one 
+
 ```
 
 
