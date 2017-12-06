@@ -69,6 +69,10 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
     https://github.com/ProudOfZiggy/SIFloatingCollection_Swift
 ```
 
+#### UITextFiled
+```ruby
+    https://github.com/weilsonwonder/JVFloatLabeledTextField
+```
 
 
 #### Images
