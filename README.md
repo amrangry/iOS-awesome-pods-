@@ -80,10 +80,22 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
     pod 'InitialsImageView'
 ```
 
+
+#### Dashboard
+```ruby
+    https://www.cocoacontrols.com/controls/semi-circular-scale
+
+ https://github.com/HamzaGhazouani/HGCircularSlider
+```
+
+
+
 #### animation
 ```ruby
     https://github.com/ameizi/awesome-ios-animation
 ```
+
+
 
 
 
