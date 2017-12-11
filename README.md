@@ -95,6 +95,11 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
     https://github.com/ameizi/awesome-ios-animation
 ```
 
+#### animation
+```ruby
+    https://github.com/WenchaoD/FSCalendar
+```
+
 
 
 
