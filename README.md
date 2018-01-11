@@ -118,8 +118,10 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ```
 
 
-
-
+#### Animation 
+```ruby
+https://github.com/mmick66/kinieta
+```
 
 
 
