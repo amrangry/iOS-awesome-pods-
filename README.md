@@ -30,6 +30,18 @@ git push <remote-name> <branch-name>
 Where <remote-name> is typically origin, the name which git gives to the remote you cloned from. Your colleagues would then just pull that branch, and it's automatically created locally.
 
 
+After that, you can work locally in your branch, when you are ready to share the branch, push it. The next command push the branch to the remote repository origin and tracks it
+
+git push -u origin your_branch
+Teammates can reach your branch, by doing:
+
+git fetch
+git checkout origin/your_branch
+
+You can continue working in the branch and pushing whenever you want without passing arguments to git push (argumentless git push will push the master to remote master, your_branch local to remote your_branch, etc...)
+
+git push
+
 
 Push changes from your commit into your branch :
 $ git push [name_of_your_new_remote] [name_of_your_branch]
