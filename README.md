@@ -23,7 +23,13 @@ You can see all branches created by using :
 $ git branch
 
 Add a new remote for your branch :
-$ git remote add [name_of_your_remote] 
+The remote branch is automatically created when you push it to the remote server. So when you feel ready for it, you can just do:
+
+git push <remote-name> <branch-name> 
+
+Where <remote-name> is typically origin, the name which git gives to the remote you cloned from. Your colleagues would then just pull that branch, and it's automatically created locally.
+
+
 
 Push changes from your commit into your branch :
 $ git push [name_of_your_new_remote] [name_of_your_branch]
@@ -42,6 +48,7 @@ $ git branch -D [name_of_your_new_branch]
 
 Delete the branch on github :
 $ git push origin :[name_of_your_new_branch]
+
 
 
 More Ref
