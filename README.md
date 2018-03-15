@@ -99,6 +99,19 @@ https://github.com/dkhamsing/open-source-ios-apps
    https://infinum.co/the-capsized-eight/top-10-ios-swift-libraries-every-ios-developer-should-know-about
 ```
 
+#### wrap encoding for struct
+Wrap is an easy to use Swift JSON encoder. Don't spend hours writing JSON encoding code - just wrap it instead!
+
+Using Wrap is as easy as calling wrap() on any instance of a class or struct that you wish to encode. It automatically encodes all of your type’s properties, including nested objects, collections, enums and more!
+```ruby
+   https://github.com/JohnSundell/Wrap
+```
+
+#### Unbox decoding for struct
+```ruby
+   https://github.com/JohnSundell/Unbox
+```
+
 
 
 #### keyboard handler
