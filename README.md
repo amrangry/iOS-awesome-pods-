@@ -123,6 +123,8 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ```ruby
     pod 'Alamofire', '~> 4.4'     #https://www.raywenderlich.com/147086/alamofire-tutorial-getting-started-2    
     pod 'PromiseKit', '~> 4.4'
+    pod 'kingfisher'   #for image downlaod  
+    https://github.com/onevcat/Kingfisher/wiki/Cheat-Sheet#authentication-with-nsurlcredential
 ```
 #### Localization
 ```ruby
@@ -193,8 +195,7 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 https://github.com/mmick66/kinieta
 ```
 
-
-
+a
 
 
     
