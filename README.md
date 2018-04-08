@@ -195,10 +195,16 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 https://github.com/mmick66/kinieta
 ```
 
-a
+#### How to use macOS Recovery
+https://support.apple.com/en-eg/HT204904
 
 
-    
+Command (⌘)-R
+Install the latest macOS that was installed on your Mac, without upgrading to a later version.*
+Option-Command-R
+Upgrade to the latest macOS that is compatible with your Mac.**
+Shift-Option-Command-R
+Requires macOS Sierra 10.12.4 or later	Install the macOS that came with your Mac, or the version closest to it that is still available. 
 
 
 
