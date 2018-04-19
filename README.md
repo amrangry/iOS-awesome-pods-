@@ -170,6 +170,11 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
  https://github.com/HamzaGhazouani/HGCircularSlider
 ```
 
+#### UITextField
+```ruby
+    https://github.com/Skyscanner/SkyFloatingLabelTextField
+```
+
 
 
 #### animation
