@@ -113,6 +113,11 @@ Using Wrap is as easy as calling wrap() on any instance of a class or struct tha
 ```
 
 
+#### Graphs / Charts
+```ruby
+   https://github.com/danielgindi/Charts/blob/master/README.md
+```
+
 
 #### keyboard handler
 ```ruby
