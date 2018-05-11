@@ -93,6 +93,14 @@ Simply doing the vim "save and quit" command :wq should do the trick.
 https://github.com/dkhamsing/open-source-ios-apps
 
 
+
+```
+#### animation
+```ruby
+   https://github.com/onmyway133/fantastic-ios-animation
+```
+
+
 ```
 #### ios-swift-libraries
 ```ruby
