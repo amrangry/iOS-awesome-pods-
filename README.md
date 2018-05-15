@@ -5,6 +5,13 @@
 ## This project is aiming to list the most needed and awesome pods lib for iOS projects
 
 
+# The Quickest Way to Show/Hide Hidden Files
+Since the release of macOS Sierra, when in Finder, it is now possible to use the shortcut:
+```ruby
+ CMD + SHIFT + .
+```
+
+
 #### git
 ```ruby
 
