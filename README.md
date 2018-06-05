@@ -107,8 +107,15 @@ https://github.com/dkhamsing/open-source-ios-apps
    https://github.com/onmyway133/fantastic-ios-animation
 ```
 
-
+#### SwifterSwift Extensions
+```ruby
+   pod 'SwifterSwift'            # All Extensions
+   
+   https://swifterswift.com/
 ```
+
+
+
 #### ios-swift-libraries
 ```ruby
    https://infinum.co/the-capsized-eight/top-10-ios-swift-libraries-every-ios-developer-should-know-about
