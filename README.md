@@ -144,6 +144,10 @@ Using Wrap is as easy as calling wrap() on any instance of a class or struct tha
 ```ruby
    https://github.com/danielgindi/Charts/blob/master/README.md
 ```
+#### SwiftMessages
+```ruby
+https://github.com/SwiftKickMobile/SwiftMessages
+```
 
 
 #### keyboard handler
