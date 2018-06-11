@@ -149,6 +149,10 @@ Using Wrap is as easy as calling wrap() on any instance of a class or struct tha
 https://github.com/SwiftKickMobile/SwiftMessages
 ```
 
+#### Error-Handling 
+```ruby
+https://github.com/Workable/swift-error-handler
+```
 
 #### keyboard handler
 ```ruby
