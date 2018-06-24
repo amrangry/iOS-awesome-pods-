@@ -139,6 +139,12 @@ Using Wrap is as easy as calling wrap() on any instance of a class or struct tha
    https://github.com/MatthewYork/DateTools
 ```
 
+#### Working with Arrays and more
+```ruby
+   https://github.com/ankurp/Dollar
+```
+
+
 
 #### Graphs / Charts
 ```ruby
