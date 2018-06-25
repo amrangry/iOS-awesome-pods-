@@ -139,6 +139,14 @@ Using Wrap is as easy as calling wrap() on any instance of a class or struct tha
    https://github.com/MatthewYork/DateTools
 ```
 
+
+#### AttributedString  , NSAttributedString
+```ruby
+   https://github.com/malcommac/SwiftRichString
+```
+
+
+
 #### Working with Arrays and more
 ```ruby
    https://github.com/ankurp/Dollar
