@@ -99,14 +99,38 @@ Simply doing the vim "save and quit" command :wq should do the trick.
 #### ios-Open Project
 https://github.com/dkhamsing/open-source-ios-apps
 
-```
+
 #### status bar
 ```ruby
    https://github.com/MaximKotliar/Bartinter
 ```
 
 
+#### gradient -> Slopy
+```ruby
+   https://github.com/mergesort/Slope?utm_campaign=AwesomeiOS%2BWeekly&utm_medium=email&utm_source=AwesomeiOS_Weekly_9
 ```
+
+####  swizzling swift lumos
+```ruby
+   https://github.com/sushinoya/lumos
+```
+
+####  MVVM-C RxCoordinator Router 
+```ruby
+   https://github.com/quickbirdstudios/RxCoordinator
+```
+####  OpenSource Project fsnotes
+```ruby
+   https://github.com/glushchenko/fsnotes
+```
+
+####  ImagePicker  Gallery
+```ruby
+   https://github.com/hyperoslo/Gallery
+```
+
+
 #### animation
 ```ruby
    https://github.com/onmyway133/fantastic-ios-animation
