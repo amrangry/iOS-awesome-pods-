@@ -144,6 +144,12 @@ https://github.com/dkhamsing/open-source-ios-apps
 ```
 
 
+### Loader skeleton indactor
+```ruby
+   https://github.com/Juanpe/SkeletonView
+```
+
+
 
 #### ios-swift-libraries
 ```ruby
