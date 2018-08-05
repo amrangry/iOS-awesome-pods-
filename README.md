@@ -10,7 +10,18 @@ Since the release of macOS Sierra, when in Finder, it is now possible to use the
 ```ruby
  CMD + SHIFT + .
 ```
+# Modify text files in Terminal
 
+```ruby
+pwd to print the current path
+ $ vi filepath
+ 
+ press i to enter the insert mode 
+ press q coomand 
+ write 
+ :wq!   --> write and quite 
+ :q!   quite without saving 
+```
 
 #### git
 ```ruby
