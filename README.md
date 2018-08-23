@@ -107,6 +107,33 @@ git init for fresh one
 merg commit from terminal 
 Simply doing the vim "save and quit" command :wq should do the trick.
 
+
+
+Create a new repository
+git clone https://Amr.Elghadban@git.itworx.com/mobility/PeopleSearch.git
+cd PeopleSearch
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+
+Existing folder
+cd existing_folder
+git init
+git remote add origin https://Amr.Elghadban@git.itworx.com/mobility/PeopleSearch.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+
+Existing Git repository
+cd existing_repo
+git remote add origin https://Amr.Elghadban@git.itworx.com/mobility/PeopleSearch.git
+git push -u origin --all
+git push -u origin --tags
+
+
+
+
 #### ios-Open Project
 https://github.com/dkhamsing/open-source-ios-apps
 
