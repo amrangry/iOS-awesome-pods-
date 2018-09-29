@@ -25,6 +25,12 @@ pwd to print the current path
 
 #### git
 ```ruby
+using to generate .gitignore file 
+https://www.gitignore.io/
+```
+
+
+```ruby
 
 Create the branch on your local machine and switch in this branch :
 $ git checkout -b [name_of_your_new_branch]
