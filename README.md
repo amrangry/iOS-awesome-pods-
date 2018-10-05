@@ -31,6 +31,11 @@ https://www.gitignore.io/
 
 
 ```ruby
+master git 
+
+1- https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61
+
+2- https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826
 
 Create the branch on your local machine and switch in this branch :
 $ git checkout -b [name_of_your_new_branch]
