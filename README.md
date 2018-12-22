@@ -4,20 +4,33 @@
 # `iOS-awesome-pods`
 ## This project is aiming to list the most needed and awesome pods lib for iOS projects
 
-
 # The Quickest Way to Show/Hide Hidden Files
 Since the release of macOS Sierra, when in Finder, it is now possible to use the shortcut:
 ```ruby
  CMD + SHIFT + .
 ```
-# Modify text files in Terminal
-
+# Terminal
 ```ruby
-pwd to print the current path
+  pwd to print the current path
+```
+# Modify text files in Terminal
+```ruby
+* Open File for edit
  $ vi filepath
  
+* Input mode
+
  press i to enter the insert mode 
  press q coomand 
+ 
+* Ex mode
+To get into it, press Esc and then : (the colon).
+ The cursor will go to the bottom of the screen at a colon prompt.
+ Write your file by entering :w 
+ and quit by entering :q
+ You can combine these to save and exit by entering :wq
+ However, if you're finished with your file, it's generally more convenient to type Shift-z-z from command mode
+
  write 
  :wq!   --> write and quite 
  :q!   quite without saving 
