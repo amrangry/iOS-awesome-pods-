@@ -225,6 +225,11 @@ https://github.com/dkhamsing/open-source-ios-apps
    https://github.com/Abedalkareem/AMShimmer
 ```
 
+### OpenSource Projects 
+# Quran القراءن
+```ruby
+https://github.com/quran/quran-ios?fbclid=IwAR3-ZLfGaN7VbvO2EML0y9iuUE7aSJfy0TFLfCKdG0177reGDcyJJ9mDsJE
+```
 
 
 #### ios-swift-libraries
