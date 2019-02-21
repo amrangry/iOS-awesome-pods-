@@ -191,11 +191,6 @@ https://github.com/dkhamsing/open-source-ios-apps
    https://github.com/glushchenko/fsnotes
 ```
 
-####  ImagePicker  Gallery
-```ruby
-   https://github.com/hyperoslo/Gallery
-```
-
 #### Tag
 ```ruby
    https://github.com/kuler90/RKTagsView?fbclid=IwAR23-QfTBiPT0h-qagiM0GmCPiDejjgxrx-WvK3UfFo-N2k2qps9NWF0E3g
@@ -207,8 +202,6 @@ https://github.com/dkhamsing/open-source-ios-apps
    https://github.com/adamhartford/SwiftR?fbclid=IwAR0b74Y3ZmYv43hMHmhm_CVXLdPGubByP52dfFcmfzDmnqVBQ0hBlApQCKM
    
 ```
-
-
 
 #### animation
 ```ruby
@@ -265,14 +258,10 @@ Using Wrap is as easy as calling wrap() on any instance of a class or struct tha
    https://github.com/malcommac/SwiftRichString
 ```
 
-
-
 #### Working with Arrays and more
 ```ruby
    https://github.com/ankurp/Dollar
 ```
-
-
 
 #### Graphs / Charts
 ```ruby
@@ -291,6 +280,14 @@ https://github.com/Workable/swift-error-handler
 #### keyboard handler
 ```ruby
 pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
+```
+#### image compress size
+```ruby
+   https://github.com/hucool/WXImageCompress
+```
+####  ImagePicker  Gallery image
+```ruby
+   https://github.com/hyperoslo/Gallery
 ```
 
 #### Network handler
