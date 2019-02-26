@@ -229,6 +229,10 @@ https://github.com/dkhamsing/open-source-ios-apps
 https://github.com/quran/quran-ios?fbclid=IwAR3-ZLfGaN7VbvO2EML0y9iuUE7aSJfy0TFLfCKdG0177reGDcyJJ9mDsJE
 ```
 
+#### XML HTML parsing
+```ruby
+https://github.com/scinfu/SwiftSoup?fbclid=IwAR3ji1p9L-vp2yg2jD_rzmNJw4lZMkjk4w_TFbtA7rgZ9v4xd-q57TvJdfo
+```
 
 #### ios-swift-libraries
 ```ruby
