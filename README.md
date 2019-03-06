@@ -266,6 +266,11 @@ Using Wrap is as easy as calling wrap() on any instance of a class or struct tha
 ```ruby
    https://github.com/ankurp/Dollar
 ```
+#### Working Linter swiftlint swiftformat
+```ruby
+  https://github.com/nicklockwood/SwiftFormat
+```
+
 
 #### Graphs / Charts
 ```ruby
