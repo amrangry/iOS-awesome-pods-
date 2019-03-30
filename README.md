@@ -203,11 +203,6 @@ https://github.com/dkhamsing/open-source-ios-apps
    
 ```
 
-#### animation
-```ruby
-   https://github.com/onmyway133/fantastic-ios-animation
-```
-
 #### SwifterSwift Extensions
 ```ruby
    pod 'SwifterSwift'            # All Extensions
@@ -323,8 +318,6 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
     
     https://github.com/jonkykong/SideMenu
 ```
-
-
 #### Tab bar
 ```ruby
     https://github.com/itsKaynine/SwiftRaisedTab
@@ -375,6 +368,10 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 
     https://github.com/Ramotion/swift-ui-animation-components-and-libraries
  
+   https://github.com/onmyway133/fantastic-ios-animation
+   
+   https://github.com/HeroTransitions/Hero
+   
 ```
 
 #### Calendar
@@ -382,7 +379,7 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
     https://github.com/WenchaoD/FSCalendar
 ```
 
-#### .  UI
+####  UI
 ```ruby
     https://github.com/Instagram/IGListKit
     https://github.com/texturegroup/texture
