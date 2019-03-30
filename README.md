@@ -320,6 +320,8 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 #### Side Menu
 ```ruby
     pod 'SideMenu'
+    
+    https://github.com/jonkykong/SideMenu
 ```
 
 
