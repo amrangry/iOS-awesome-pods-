@@ -322,6 +322,10 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ```ruby
     https://github.com/itsKaynine/SwiftRaisedTab
 ```
+#### Panel 
+```ruby
+    https://github.com/SCENEE/FloatingPanel
+```
 
 #### Country Picker 
 ```ruby
