@@ -155,6 +155,11 @@ git remote add origin https://Amr.Elghadban@git.itworx.com/mobility/PeopleSearch
 git push -u origin --all
 git push -u origin --tags
 
+#### How to get specific pod repo 
+```ruby
+   pod 'SideMenu', :git => 'https://github.com/stelabouras/SideMenu.git', :branch => 'upgrade/xcode-10.2'
+```
+
 
 
 
