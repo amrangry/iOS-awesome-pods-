@@ -200,6 +200,11 @@ https://github.com/dkhamsing/open-source-ios-apps
 ```ruby
    https://github.com/kuler90/RKTagsView?fbclid=IwAR23-QfTBiPT0h-qagiM0GmCPiDejjgxrx-WvK3UfFo-N2k2qps9NWF0E3g
 ```
+#### SwipeCellKit for UITableView + UIcollectionView
+```ruby
+   https://github.com/SwipeCellKit/SwipeCellKit
+```
+
 
 ####  socket
 ```ruby
