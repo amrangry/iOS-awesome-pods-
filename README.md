@@ -157,8 +157,22 @@ git push -u origin --tags
 
 #### How to get specific pod repo 
 ```ruby
-   pod 'SideMenu', :git => 'https://github.com/stelabouras/SideMenu.git', :branch => 'upgrade/xcode-10.2'
+
+   To use a different url of the repo:
+   pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire.git'
+
+    To use a different branch of the repo:
+    pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire.git', :branch => 'dev'
+
+    To use a tag of the repo:
+    pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire.git', :tag => '3.1.1'
+
+    Or specify a commit:
+    pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire.git', :commit => '0f506b1c45'
+   
 ```
+
+
 
 
 
