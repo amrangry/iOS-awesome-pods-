@@ -217,6 +217,10 @@ https://github.com/dkhamsing/open-source-ios-apps
 #### SwipeCellKit for UITableView + UIcollectionView
 ```ruby
    https://github.com/SwipeCellKit/SwipeCellKit
+   
+   https://www.cocoacontrols.com/controls/upcarouselflowlayout
+   
+   https://github.com/ink-spot/UPCarouselFlowLayout
 ```
 
 
