@@ -42,6 +42,11 @@ using to generate .gitignore file
 https://www.gitignore.io/
 ```
 
+f you committed these files to git even once, it won't help to add gitignore later, you need to untrack those files from git (on any pc that deals with this git)
+git rm --cache */UserInterfaceState.xcuserstate
+and repeat for all files you wish to ignore (you should never ignore pbxproj though this is critical file)
+commit, push and your problem will be solved
+
 
 ```ruby
 master git 
