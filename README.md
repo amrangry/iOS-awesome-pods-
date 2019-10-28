@@ -4,6 +4,10 @@
 # `iOS-awesome-pods`
 ## This project is aiming to list the most needed and awesome pods lib for iOS projects
 
+
+
+
+
 # The Quickest Way to Show/Hide Hidden Files
 Since the release of macOS Sierra, when in Finder, it is now possible to use the shortcut:
 ```ruby
@@ -13,6 +17,13 @@ Since the release of macOS Sierra, when in Finder, it is now possible to use the
 ```ruby
   pwd to print the current path
 ```
+
+
+# Xcode Command-line Tools
+```ruby
+$ xcode-select --install
+```
+
 # Modify text files in Terminal
 ```ruby
 * Open File for edit
