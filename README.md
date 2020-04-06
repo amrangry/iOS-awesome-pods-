@@ -55,6 +55,11 @@ https://github.com/dkhamsing/open-source-ios-apps
    https://github.com/malcommac/SwiftDate
 ```
 
+#### capture uiview 
+```ruby
+   https://github.com/startry/SwViewCapture
+```
+
 #### status bar
 ```ruby
    https://github.com/MaximKotliar/Bartinter
