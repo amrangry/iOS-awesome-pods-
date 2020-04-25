@@ -65,6 +65,12 @@ https://github.com/dkhamsing/open-source-ios-apps
    https://github.com/MaximKotliar/Bartinter
 ```
 
+
+#### Chat
+```ruby
+   https://github.com/khuong291/Chatto
+```
+
 #### code Generator "R Swift"
 ```ruby
    https://github.com/mac-cain13/R.swift
@@ -108,6 +114,11 @@ https://github.com/dkhamsing/open-source-ios-apps
    https://github.com/daltoniam/Starscream?fbclid=IwAR2mv3v9uyulxKEDAJdqHLW9RCH0tbyPJUIxS_VlgbSGj7iQOB_krp-j2Gs
    https://github.com/adamhartford/SwiftR?fbclid=IwAR0b74Y3ZmYv43hMHmhm_CVXLdPGubByP52dfFcmfzDmnqVBQ0hBlApQCKM
    
+```
+
+####  animate
+```ruby
+   https://github.com/khuong291/MagicPresent
 ```
 
 #### SwifterSwift Extensions
@@ -202,6 +213,7 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ####  ImagePicker  Gallery image
 ```ruby
    https://github.com/hyperoslo/Gallery
+   https://github.com/hyperoslo/ImagePicker
 ```
 
 #### Network handler
