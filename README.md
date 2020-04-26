@@ -201,6 +201,10 @@ Using Wrap is as easy as calling wrap() on any instance of a class or struct tha
   https://github.com/nicklockwood/SwiftFormat
 ```
 
+#### QRCodeReader
+```ruby
+  https://github.com/yannickl/QRCodeReader.swift
+```
 
 #### Graphs / Charts
 ```ruby
