@@ -244,6 +244,7 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 #### Alerts
 ```ruby
     pod 'SCLAlertView'
+    https://github.com/pmusolino/PMAlertController
 ```
 #### Side Menu
 ```ruby
