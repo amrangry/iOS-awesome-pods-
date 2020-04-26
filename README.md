@@ -94,6 +94,11 @@ https://github.com/dkhamsing/open-source-ios-apps
 ```ruby
    https://github.com/glushchenko/fsnotes
 ```
+#### UI Rate
+```ruby
+   https://github.com/ragaie/RateBar
+```
+
 
 #### Tag
 ```ruby
@@ -167,6 +172,8 @@ Using Wrap is as easy as calling wrap() on any instance of a class or struct tha
 ```ruby
    https://github.com/JohnSundell/Unbox
 ```
+
+
 
 #### Date tools
 ```ruby
