@@ -228,6 +228,7 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ```ruby
    https://github.com/hyperoslo/Gallery
    https://github.com/hyperoslo/ImagePicker
+   https://github.com/mikaoj/BSImagePicker
 ```
 
 #### Network handler
