@@ -126,6 +126,13 @@ https://github.com/dkhamsing/open-source-ios-apps
    https://github.com/khuong291/MagicPresent
 ```
 
+#### UI slider for collection
+```ruby
+   https://github.com/Yalantis/Koloda
+```
+
+
+
 #### SwifterSwift Extensions
 ```ruby
    pod 'SwifterSwift'            # All Extensions
