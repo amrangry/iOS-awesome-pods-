@@ -284,6 +284,11 @@ pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
     pod 'InitialsImageView'
 ```
 
+#### Badge
+```ruby
+    https://github.com/MatrixSenpai/BadgeHub
+```
+
 
 #### Dashboard
 ```ruby
