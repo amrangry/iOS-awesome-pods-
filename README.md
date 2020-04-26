@@ -220,6 +220,12 @@ https://github.com/Workable/swift-error-handler
 ```ruby
 pod 'IQKeyboardManagerSwift' #https://github.com/hackiftekhar/IQKeyboardManager
 ```
+
+#### BlurView
+```ruby
+   https://github.com/KyoheiG3/DynamicBlurView
+```
+
 #### image compress size
 ```ruby
    https://github.com/hucool/WXImageCompress
