@@ -17,11 +17,11 @@
 
 
 # Setup xCode
- ## enable spell-checking in Xcode
+ ## 1- enable spell-checking in Xcode
 You can enable this feature by going to Edit menu > Format > Spelling and Grammar > Check Spelling While Typing.
 Ref: https://sarunw.com/posts/spell-checking-in-xcode
 
-## Xcode-Behaviors
+## 2- Xcode-Behaviors
 1. Download the Supported Scripts.
 2. Open Xcode.
 3. Open the Xcode preferences. Shortcuts: cmd,
