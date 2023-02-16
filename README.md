@@ -16,6 +16,10 @@
 ## This project is aiming to list the most needed and awesome pods lib for iOS projects
 
 
+# Setup xCode
+1- enable spell-checking in Xcode:
+You can enable this feature by going to Edit menu > Format > Spelling and Grammar > Check Spelling While Typing.
+Ref: https://sarunw.com/posts/spell-checking-in-xcode
 
 
 
