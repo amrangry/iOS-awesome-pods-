@@ -32,6 +32,11 @@ Ref: https://sarunw.com/posts/spell-checking-in-xcode
 8. Click choose script.
 9. Right-click the name of the behavior you just created to specify the shortcut. (ex. cmd + shift + 5)
 
+Note: 
+```ruby
+- how to create bash executable file  
+  $ echo '#!/bin/bash\nopen -a Terminal "`pwd`"' > ~/terminal.sh && chmod +x ~/terminal.sh
+```
  
 # The Quickest Way to Show/Hide Hidden Files
 Since the release of macOS Sierra, when in Finder, it is now possible to use the shortcut:
