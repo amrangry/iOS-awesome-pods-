@@ -17,14 +17,11 @@
 
 
 # Setup xCode
-```xCode
- enable spell-checking in Xcode
-```
+ ## enable spell-checking in Xcode
 You can enable this feature by going to Edit menu > Format > Spelling and Grammar > Check Spelling While Typing.
 Ref: https://sarunw.com/posts/spell-checking-in-xcode
-```xCode
- Xcode-Behaviors
-```
+
+## Xcode-Behaviors
 1. Download the Supported Scripts.
 2. Open Xcode.
 3. Open the Xcode preferences. Shortcuts: cmd,
@@ -35,6 +32,7 @@ Ref: https://sarunw.com/posts/spell-checking-in-xcode
 8. Click choose script.
 9. Right-click the name of the behavior you just created to specify the shortcut. (ex. cmd + shift + 5)
 
+ 
 # The Quickest Way to Show/Hide Hidden Files
 Since the release of macOS Sierra, when in Finder, it is now possible to use the shortcut:
 ```ruby
