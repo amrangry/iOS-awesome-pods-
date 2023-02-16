@@ -22,15 +22,15 @@ You can enable this feature by going to Edit menu > Format > Spelling and Gramma
 Ref: https://sarunw.com/posts/spell-checking-in-xcode
 
 ## 2- Xcode-Behaviors
-1. Download the Supported Scripts.
-2. Open Xcode.
-3. Open the Xcode preferences. Shortcuts: cmd,
-4. Select the behaviors tab.
-5. Press the + button on the bottom left.
-6. Create a name for the behavior. (ex. open terminal)
-7. Activate the Run check box.
-8. Click choose script.
-9. Right-click the name of the behavior you just created to specify the shortcut. (ex. cmd + shift + 5)
+1. Download the Supported Scripts. https://github.com/amrangry/iOS-awesome-pods-/tree/master/xCode%20Behavior%20Scripts
+3. Open Xcode.
+4. Open the Xcode preferences. Shortcuts: cmd,
+5. Select the behaviors tab.
+6. Press the + button on the bottom left.
+7. Create a name for the behavior. (ex. open terminal)
+8. Activate the Run check box.
+9. Click choose script.
+10. Right-click the name of the behavior you just created to specify the shortcut. (ex. cmd + shift + 5)
 
 Note: 
 ```ruby
