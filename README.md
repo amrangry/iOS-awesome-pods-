@@ -25,8 +25,10 @@ Ref: https://sarunw.com/posts/spell-checking-in-xcode
 ```xCode
  Xcode-Behaviors
 ```
-*1- Download the Supported Scripts. from here ...
-*2. Open Xcode.
+ ( - ) 1- Download the Supported Scripts. from here ...
+ 
+ ( - ) *2. Open Xcode.
+ 
 *3. Open the Xcode preferences. Shortcuts: cmd,
 4. Select the behaviors tab.
 5. Press the + button on the bottom left.
