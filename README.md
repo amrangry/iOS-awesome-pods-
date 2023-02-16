@@ -26,15 +26,14 @@ Ref: https://sarunw.com/posts/spell-checking-in-xcode
  Xcode-Behaviors
 ```
 1- Download the Supported Scripts. from here ...
-2- Clone or download the project.
-3- Open Xcode.
-4- Open the Xcode preferences. Shortcuts: cmd,
-5- Select the behaviors tab.
-6- Press the + button on the bottom left.
-7- Create a name for the behavior. (ex. open terminal)
-8- Activate the Run check box.
-9- Click choose script.
-1- Right-click the name of the behavior you just created to specify the shortcut. (ex. cmd + shift + 5)
+2. Open Xcode.
+3. Open the Xcode preferences. Shortcuts: cmd,
+4. Select the behaviors tab.
+5. Press the + button on the bottom left.
+6. Create a name for the behavior. (ex. open terminal)
+7. Activate the Run check box.
+8. Click choose script.
+9. Right-click the name of the behavior you just created to specify the shortcut. (ex. cmd + shift + 5)
 
 # The Quickest Way to Show/Hide Hidden Files
 Since the release of macOS Sierra, when in Finder, it is now possible to use the shortcut:
