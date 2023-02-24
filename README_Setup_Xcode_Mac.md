@@ -29,6 +29,9 @@ Supercharge your terminal with styles, plugins and features! Since Apple replace
 
 Basically if you ever saw someone using a fancy terminal, chances are that he was using Oh My Zsh.
 
+<p align="center">
+  <img src =" https://github.com/amrangry/iOS-awesome-pods-/blob/master/GFX_ASSETS/oh_my_zch.jpg?raw=true"/>
+</p>
 
 Plugins are also a huge part of the Oh My Zsh ecosystem. My must haves are:
 
