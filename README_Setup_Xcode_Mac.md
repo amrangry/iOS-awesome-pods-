@@ -1,10 +1,10 @@
 
-# Setup xCode
+# 1. Setup xCode
  ## 1- enable spell-checking in Xcode
 You can enable this feature by going to Edit menu > Format > Spelling and Grammar > Check Spelling While Typing.
 Ref: https://sarunw.com/posts/spell-checking-in-xcode
 
-## 2- Xcode-Behaviors
+# 2. Xcode-Behaviors
 1. Download the Supported Scripts. https://github.com/amrangry/iOS-awesome-pods-/tree/master/xCode%20Behavior%20Scripts
 3. Open Xcode.
 4. Open the Xcode preferences. Shortcuts: cmd,
@@ -21,7 +21,7 @@ Note:
   $ echo '#!/bin/bash\nopen -a Terminal "`pwd`"' > ~/terminal.sh && chmod +x ~/terminal.sh
 ```
 
-3. Oh My Zsh
+# 3. Oh My Zsh
 Supercharge your terminal with styles, plugins and features! Since Apple replaced Bash with Zsh in 2019 and it installs with a single shell command, this is a no-brainer. You can pick from a boatload of themes — or just use the default one like me, it’s plenty good!
 
 Basically if you ever saw someone using a fancy terminal, chances are that he was using Oh My Zsh.
