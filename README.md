@@ -81,7 +81,7 @@ To get into it, press Esc and then : (the colon).
 ####  wizzling swift lumos : https://github.com/sushinoya/lumos
 #### VVM-C RxCoordinator Router : https://github.com/quickbirdstudios/RxCoordinator
 #### UI Rate : https://github.com/ragaie/RateBar
-#### Tag : https://github.com/kuler90/RKTagsView?fbclid=IwAR23-QfTBiPT0h-qagiM0GmCPiDejjgxrx-WvK3UfFo-N2k2qps9NWF0E3g
+#### Tag : https://github.com/kuler90/RKTagsView
 #### animate : https://github.com/khuong291/MagicPresent
 #### UI slider for collection : https://github.com/Yalantis/Koloda
 #### XML HTML parsing : https://github.com/scinfu/SwiftSoup
@@ -115,8 +115,20 @@ To get into it, press Esc and then : (the colon).
  ##### https://github.com/ink-spot/UPCarouselFlowLayout
 
 #### socket
- ##### https://github.com/daltoniam/Starscream?fbclid=IwAR2mv3v9uyulxKEDAJdqHLW9RCH0tbyPJUIxS_VlgbSGj7iQOB_krp-j2Gs
- ##### https://github.com/adamhartford/SwiftR?fbclid=IwAR0b74Y3ZmYv43hMHmhm_CVXLdPGubByP52dfFcmfzDmnqVBQ0hBlApQCKM
+ ##### https://github.com/daltoniam/Starscream
+ ##### https://github.com/adamhartford/SwiftR
+ 
+  Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
    
 #### Loader skeleton indactor
  ##### https://github.com/Juanpe/SkeletonView
