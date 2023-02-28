@@ -58,6 +58,7 @@ To get into it, press Esc and then : (the colon).
  :wq!   --> write and quite 
  :q!   quite without saving 
 ```
+#### Markdown Cheatsheet : https://github.com/tchapi/markdown-cheatsheet
 #### ios-swift-libraries : https://infinum.co/the-capsized-eight/top-10-ios-swift-libraries-every-ios-developer-should-know-about
 #### OpenSource iOS Project :
    * https://github.com/dkhamsing/open-source-ios-apps
