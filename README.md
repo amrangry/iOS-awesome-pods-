@@ -9,55 +9,6 @@
 # `iOS-awesome-pods`
 ## This project is aiming to list the most needed and awesome pods lib for iOS projects
 
-#### How to use macOS Recovery
-https://support.apple.com/en-eg/HT204904
-
-
-Command (⌘)-R
-Install the latest macOS that was installed on your Mac, without upgrading to a later version.*
-Option-Command-R
-Upgrade to the latest macOS that is compatible with your Mac.**
-Shift-Option-Command-R
-Requires macOS Sierra 10.12.4 or later	Install the macOS that came with your Mac, or the version closest to it that is still available. 
-
-# The Quickest Way to Show/Hide Hidden Files
-Since the release of macOS Sierra, when in Finder, it is now possible to use the shortcut:
-```ruby
- CMD + SHIFT + .
-```
-# Terminal
-```ruby
-  pwd to print the current path
-```
-
-
-# Xcode Command-line Tools
-```ruby
-$ xcode-select --install
-```
-
-# Modify text files in Terminal
-```ruby
-* Open File for edit
- $ vi filepath
- 
-* Input mode
-
- press i to enter the insert mode 
- press q coomand 
- 
-* Ex mode
-To get into it, press Esc and then : (the colon).
- The cursor will go to the bottom of the screen at a colon prompt.
- Write your file by entering :w 
- and quit by entering :q
- You can combine these to save and exit by entering :wq
- However, if you're finished with your file, it's generally more convenient to type Shift-z-z from command mode
-
- write 
- :wq!   --> write and quite 
- :q!   quite without saving 
-```
 #### Markdown Cheatsheet : https://github.com/tchapi/markdown-cheatsheet
 #### ios-swift-libraries : https://infinum.co/the-capsized-eight/top-10-ios-swift-libraries-every-ios-developer-should-know-about
 #### OpenSource iOS Project :
