@@ -70,9 +70,10 @@ To get into it, press Esc and then : (the colon).
  :q!   quite without saving 
 ```
 #### ios-swift-libraries : https://infinum.co/the-capsized-eight/top-10-ios-swift-libraries-every-ios-developer-should-know-about
-#### ios-Open Project : https://github.com/dkhamsing/open-source-ios-apps
-#### OpenSource Project (fsnotes ) : https://github.com/glushchenko/fsnotes
-#### OpenSource Project ( Quran القراءن ):  https://github.com/quran/quran-ios 
+#### OpenSource iOS Project :
+   * https://github.com/dkhamsing/open-source-ios-apps
+   * (fsnotes ) : https://github.com/glushchenko/fsnotes
+   * ( Quran القراءن ) : https://github.com/quran/quran-ios 
 #### capture uiview : https://github.com/startry/SwViewCapture
 #### status bar : https://github.com/MaximKotliar/Bartinter
 #### Chat : https://github.com/khuong291/Chatto
@@ -110,52 +111,46 @@ To get into it, press Esc and then : (the colon).
 #### SwifterSwift Extensions POD : https://swifterswift.com/
 #### Debuging  https://github.com/Flipboard/FLEX
 #### SwipeCellKit for UITableView + UIcollectionView
- ##### https://github.com/SwipeCellKit/SwipeCellKit
- ##### https://www.cocoacontrols.com/controls/upcarouselflowlayout
- ##### https://github.com/ink-spot/UPCarouselFlowLayout
+ * ##### https://github.com/SwipeCellKit/SwipeCellKit
+ * ##### https://www.cocoacontrols.com/controls/upcarouselflowlayout
+ * ##### https://github.com/ink-spot/UPCarouselFlowLayout
 
 #### socket
  * ##### https://github.com/daltoniam/Starscream
  * ##### https://github.com/adamhartford/SwiftR
  
-
- - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-   
 #### Loader skeleton indactor
- ##### https://github.com/Juanpe/SkeletonView
- ##### https://github.com/Abedalkareem/AMShimmer
+ * ##### https://github.com/Juanpe/SkeletonView
+ * ##### https://github.com/Abedalkareem/AMShimmer
  
 ####  ImagePicker  Gallery image
- ##### https://github.com/hyperoslo/Gallery
- ##### https://github.com/hyperoslo/ImagePicker
- ##### https://github.com/mikaoj/BSImagePicker
+ * ##### https://github.com/hyperoslo/Gallery
+ * ##### https://github.com/hyperoslo/ImagePicker
+ * ##### https://github.com/mikaoj/BSImagePicker
  
 #### Network handler
- ##### Alamofire' #https://www.raywenderlich.com/147086/alamofire-tutorial-getting-started-2    
- ##### 'PromiseKit'
- ##### 'kingfisher' #for image downlaod  https://github.com/onevcat/Kingfisher/wiki/Cheat-Sheet#authentication-with-nsurlcredential
+ * ##### Alamofire' #https://www.raywenderlich.com/147086/alamofire-tutorial-getting-started-2    
+ * ##### 'PromiseKit'
+ * ##### 'kingfisher' #for image downlaod  https://github.com/onevcat/Kingfisher/wiki/Cheat-Sheet#authentication-with-nsurlcredential
 
 #### Dashboard 
- ##### https://www.cocoacontrols.com/controls/semi-circular-scale
- ##### https://github.com/HamzaGhazouani/HGCircularSlider
+ * ##### https://www.cocoacontrols.com/controls/semi-circular-scale
+ * ##### https://github.com/HamzaGhazouani/HGCircularSlider
  
 #### UITextField
- #####  https://github.com/Skyscanner/SkyFloatingLabelTextField
- #####  https://github.com/weilsonwonder/JVFloatLabeledTextField
+ * #####  https://github.com/Skyscanner/SkyFloatingLabelTextField
+ * #####  https://github.com/weilsonwonder/JVFloatLabeledTextField
  
 #### animation   Ramotion
- ##### https://github.com/ameizi/awesome-ios-animation
- ##### https://github.com/mmick66/kinieta
- ##### https://github.com/Ramotion/swift-ui-animation-components-and-libraries
- ##### https://github.com/onmyway133/fantastic-ios-animation
+ * ##### https://github.com/ameizi/awesome-ios-animation
+ * ##### https://github.com/mmick66/kinieta
+ * ##### https://github.com/Ramotion/swift-ui-animation-components-and-libraries
+ * ##### https://github.com/onmyway133/fantastic-ios-animation
  
 #### UI
- ##### https://github.com/Instagram/IGListKit
- ##### https://github.com/texturegroup/texture
- ##### https://github.com/springwong/SnapKitten 
+ * ##### https://github.com/Instagram/IGListKit
+ * ##### https://github.com/texturegroup/texture
+ * ##### https://github.com/springwong/SnapKitten 
 
 #### Parchment : https://github.com/rechsteiner/Parchment
 <p align="center">
