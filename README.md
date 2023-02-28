@@ -115,17 +115,11 @@ To get into it, press Esc and then : (the colon).
  ##### https://github.com/ink-spot/UPCarouselFlowLayout
 
 #### socket
- ##### https://github.com/daltoniam/Starscream
- ##### https://github.com/adamhartford/SwiftR
+ * ##### https://github.com/daltoniam/Starscream
+ * ##### https://github.com/adamhartford/SwiftR
  
-  Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
 
--OR-
-
- Markup : - Bullet list
+ - Bullet list
               - Nested bullet
                   - Sub-nested bullet etc
           - Bullet list item 2 
