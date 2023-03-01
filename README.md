@@ -93,17 +93,41 @@
   <img src="https://raw.githubusercontent.com/rechsteiner/Parchment/main/.images/example-calendar.gif" alt="Calendar Example" />
 </p>
 
-https://github.com/amrangry/SVProgressHUD
-
-https://github.com/amrangry/Awoon_iOS
-
-https://github.com/amrangry/SwiftConnect
-https://github.com/opentrace-community/opentrace-ios
-https://github.com/yonaskolb/Mint
+https://github.com/amrangry/iOS_build_Issues
 https://github.com/git-chglog/git-chglog
 https://github.com/amrangry/Git-commands-hints
 https://github.com/popei69/TemplateProject
+https://github.com/github/gitignore
 
+https://github.com/amrangry/dev_macOS_environment_setup
+https://github.com/amrangry/ClockWise
+https://github.com/amrangry/amrangry.github.io
+https://github.com/amrangry/SVProgressHUD
+https://github.com/amrangry/CWRateKit
+https://github.com/amrangry/MGStarRatingView
+https://github.com/amrangry/AASignatureView
+https://github.com/amrangry/FloatRatingView
+
+https://github.com/amrangry/CI_CD_Tutorial
+https://github.com/amrangry/tranxit_user
+https://github.com/amrangry/Tranxit_Driver
+https://github.com/amrangry/Awoon_iOS
+https://github.com/amrangry/DubaiWatchWeek_QRCode
+
+https://github.com/varun-naharia/VNImageScanner
+https://github.com/amrangry/HTML_Redirect_Screen
+https://github.com/rsrbk/GoSwifty
+https://github.com/amrangry/DesignSystem
+https://github.com/amrangry/SwiftConnect
+
+https://github.com/appcoda/NSOperation-Demo
+https://github.com/opentrace-community/opentrace-ios
+https://github.com/yonaskolb/Mint
+https://github.com/SnapKit/SnapKit
+
+https://github.com/schmidyy/Loaf
+https://github.com/optonaut/ActiveLabel.swift
+https://github.com/Ramotion/animated-tab-bar
 https://github.com/Yalantis/Koloda
 https://github.com/kerollesroshdi/KRTabBar
 https://github.com/evgenyneu/keychain-swift
@@ -116,7 +140,7 @@ https://github.com/yassram/YRPayment
 https://github.com/amrangry/DynamicHeightCollectionView
 https://github.com/amrangry/GPVideoPlayer
 https://github.com/amrangry/ScreenCaptureDetector
-
+https://github.com/amrangry/momento
 
 
 My Open Projects
@@ -124,9 +148,9 @@ My Open Projects
  * https://github.com/amrangry/ios-task
  * https://github.com/omerio/android-interview-questions
  * https://github.com/omerio/iOS-Interview-Questions
+ * https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE
  * 
- * 
- * 
+ * https://github.com/duraki/SketchCrapp
  * https://github.com/maciekish/iReSign
  * https://github.com/noodlewerk/NWPusher
  * 
@@ -143,6 +167,12 @@ My Open Projects
  * https://github.com/amrangry/NYTimes
  * https://github.com/amrangry/iCar
  * https://github.com/amrangry/zadcall_voximplant_ios_demo
+ * https://github.com/amrangry/iOS_Firebase_PushNotification_Sample
+ *
+ *
+ *
+ 
+ 
  
 LICENSE
 ---
