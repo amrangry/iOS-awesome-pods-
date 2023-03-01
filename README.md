@@ -93,19 +93,56 @@
   <img src="https://raw.githubusercontent.com/rechsteiner/Parchment/main/.images/example-calendar.gif" alt="Calendar Example" />
 </p>
 
+https://github.com/amrangry/SVProgressHUD
+
+https://github.com/amrangry/Awoon_iOS
+
+https://github.com/amrangry/SwiftConnect
+https://github.com/opentrace-community/opentrace-ios
+https://github.com/yonaskolb/Mint
+https://github.com/git-chglog/git-chglog
+https://github.com/amrangry/Git-commands-hints
+https://github.com/popei69/TemplateProject
+
+https://github.com/Yalantis/Koloda
+https://github.com/kerollesroshdi/KRTabBar
+https://github.com/evgenyneu/keychain-swift
+https://github.com/ActionKit/ActionKit
+https://github.com/antonyraphel/ARCarMovement
+https://github.com/nicklockwood/iCarousel
+https://github.com/amrangry/SideMenu
+https://github.com/yassram/YRPayment
+
+https://github.com/amrangry/DynamicHeightCollectionView
+https://github.com/amrangry/GPVideoPlayer
+https://github.com/amrangry/ScreenCaptureDetector
+
+
 
 My Open Projects
 ---
+ * https://github.com/amrangry/ios-task
+ * https://github.com/omerio/android-interview-questions
+ * https://github.com/omerio/iOS-Interview-Questions
+ * 
+ * 
+ * 
+ * https://github.com/maciekish/iReSign
+ * https://github.com/noodlewerk/NWPusher
+ * 
+ * https://github.com/amrangry/FileCaching
+ * https://github.com/amrangry/ImagePickerHandler
+ * 
  * https://github.com/amrangry/Marvel_iOSApp
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
+ * https://github.com/amrangry/GoEuroDemo
+ * https://github.com/amrangry/CustomerSearchBar
+ * https://github.com/amrangry/JailBrokenCheckerUtility
+ * https://github.com/amrangry/GoogleMaps_ios_UberLike
+ * https://github.com/amrangry/backbase
+ * https://github.com/amrangry/RealEstates_demo
+ * https://github.com/amrangry/NYTimes
+ * https://github.com/amrangry/iCar
+ * https://github.com/amrangry/zadcall_voximplant_ios_demo
  
 LICENSE
 ---
