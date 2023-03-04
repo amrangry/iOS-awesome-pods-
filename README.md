@@ -15,10 +15,19 @@
    * https://github.com/dkhamsing/open-source-ios-apps
    * (fsnotes ) : https://github.com/glushchenko/fsnotes
    * ( Quran القراءن ) : https://github.com/quran/quran-ios
+#### hide screen : https://github.com/marioIannotta/shyview
+#### review app : https://github.com/ihamadfuad/AppStoreReviewsAPI
+#### button : https://github.com/mrustaa/ButtonClickStyle
 #### Tags
    * https://github.com/dave-pang/TagStyledView 
-     ![](Screenshot/demo.gif)
+
+    ![](Screenshot/demo.gif)
+   * https://github.com/MakwanaRohit/ARSelectableView
+   * https://www.cocoacontrols.com/controls/tagview-in-swift
    * 
+#### bubble-pictures : https://www.cocoacontrols.com/controls/bubble-pictures-07d2c9b4-d768-485f-ac2e-b54dcb9c4189
+#### lazy load : https://github.com/LeBzul/SimpleShimmer
+####
 #### capture uiview : https://github.com/startry/SwViewCapture
 #### status bar : https://github.com/MaximKotliar/Bartinter
 #### Chat : https://github.com/khuong291/Chatto
@@ -29,7 +38,10 @@
 #### UI Rate : https://github.com/ragaie/RateBar
 #### Tag : https://github.com/kuler90/RKTagsView
 #### animate : https://github.com/khuong291/MagicPresent
-#### UI slider for collection : https://github.com/Yalantis/Koloda
+#### UI slider for collection :
+   * https://github.com/Yalantis/Koloda
+   * https://github.com/amirdew/CollectionViewPagingLayout
+
 #### XML HTML parsing : https://github.com/scinfu/SwiftSoup
 #### AttributedString , NSAttributedString :  https://github.com/malcommac/SwiftRichString
 #### Working with Arrays and more : https://github.com/ankurp/Dollar
@@ -55,6 +67,7 @@
 #### Date : 
  * https://github.com/malcommac/SwiftDate
  * https://github.com/MatthewYork/DateTools
+ * https://github.com/toure20/RealTimePicker
 #### SwipeCellKit for UITableView + UIcollectionView
  * https://github.com/SwipeCellKit/SwipeCellKit
  * https://www.cocoacontrols.com/controls/upcarouselflowlayout
