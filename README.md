@@ -20,30 +20,27 @@ https://medium.com/swiftblade/using-swift-concurrency-with-coordinator-pattern-d
 #### hide screen : https://github.com/marioIannotta/shyview
 #### review app : https://github.com/ihamadfuad/AppStoreReviewsAPI
 #### button : https://github.com/mrustaa/ButtonClickStyle
-#### Tags
-   * https://github.com/dave-pang/TagStyledView 
-
-    ![](Screenshot/demo.gif)
+#### Tags tag
+   * https://github.com/kuler90/RKTagsView
+   * https://github.com/dave-pang/TagStyledView
+![](Screenshot/demo.gif)
    * https://github.com/MakwanaRohit/ARSelectableView
    * https://www.cocoacontrols.com/controls/tagview-in-swift
-   * 
 #### bubble-pictures : https://www.cocoacontrols.com/controls/bubble-pictures-07d2c9b4-d768-485f-ac2e-b54dcb9c4189
 #### lazy load : https://github.com/LeBzul/SimpleShimmer
-####
 #### capture uiview : https://github.com/startry/SwViewCapture
 #### status bar : https://github.com/MaximKotliar/Bartinter
 #### Chat : https://github.com/khuong291/Chatto
 #### code Generator "R Swift" : https://github.com/mac-cain13/R.swift
 #### gradient (Slopy) : https://github.com/mergesort/Slope?utm_campaign=AwesomeiOS%2BWeekly&utm_medium=email&utm_source=AwesomeiOS_Weekly_9
-####  wizzling swift lumos : https://github.com/sushinoya/lumos
+#### wizzling swift lumos : https://github.com/sushinoya/lumos
 #### VVM-C RxCoordinator Router : https://github.com/quickbirdstudios/RxCoordinator
 #### UI Rate : https://github.com/ragaie/RateBar
-#### Tag : https://github.com/kuler90/RKTagsView
 #### animate : https://github.com/khuong291/MagicPresent
 #### UI slider for collection :
    * https://github.com/Yalantis/Koloda
    * https://github.com/amirdew/CollectionViewPagingLayout
-
+#### SVG https://github.com/SVGKit/SVGKit
 #### XML HTML parsing : https://github.com/scinfu/SwiftSoup
 #### AttributedString , NSAttributedString :  https://github.com/malcommac/SwiftRichString
 #### Working with Arrays and more : https://github.com/ankurp/Dollar
