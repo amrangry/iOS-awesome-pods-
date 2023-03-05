@@ -11,6 +11,9 @@
 
 https://medium.com/swiftblade/using-swift-concurrency-with-coordinator-pattern-de290b95f09b
 
+https://ignatiojulian.medium.com/build-modularization-ios-application-dff1b69adf83
+https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-feature-mvvm-repository-urlsession-swift-678cfe4301f0
+
 #### Markdown Cheatsheet : https://github.com/tchapi/markdown-cheatsheet
 #### ios-swift-libraries : https://infinum.co/the-capsized-eight/top-10-ios-swift-libraries-every-ios-developer-should-know-about
 #### OpenSource iOS Project :
