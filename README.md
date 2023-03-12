@@ -9,6 +9,7 @@
 # `iOS-awesome-pods`
 ## This project is aiming to list the most needed and awesome pods lib for iOS projects
 
+https://github.com/SwiftCairo/MeetupSessions/tree/master/13th%20meetup/Architecture%20Homicide
 https://medium.com/swiftblade/using-swift-concurrency-with-coordinator-pattern-de290b95f09b
 https://github.com/ProxymanApp/atlantis
 https://ignatiojulian.medium.com/build-modularization-ios-application-dff1b69adf83
