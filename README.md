@@ -95,6 +95,7 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
 #### UITextField
  * https://github.com/Skyscanner/SkyFloatingLabelTextField
  * https://github.com/weilsonwonder/JVFloatLabeledTextField
+ * https://github.com/ilyapuchka/ReadMoreTextView
 #### animation   Ramotion
  * https://github.com/ameizi/awesome-ios-animation
  * https://github.com/mmick66/kinieta
