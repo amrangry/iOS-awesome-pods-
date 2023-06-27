@@ -66,7 +66,8 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
 #### Localization : pod 'Localize-Swift', '~> 1.7'
 #### Screenshot || ScreenshotPreventing || preventing
 * [ScreenshotPreventing](https://github.com/yoxisem544/ScreenshotPreventing-iOS)
-  <img src="https://github.com/yoxisem544/ScreenshotPreventing-iOS/blob/main/Assets/demo.gif" width="470" />
+  
+<img src="https://github.com/yoxisem544/ScreenshotPreventing-iOS/blob/main/Assets/demo.gif" width="470" />
 
 #### Alerts || Screen || Popup || Messages
  * [SCLAlertView](https://github.com/pmusolino/PMAlertController)
