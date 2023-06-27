@@ -26,8 +26,16 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
 #### button : https://github.com/mrustaa/ButtonClickStyle
 #### Tags tag
    * https://github.com/kuler90/RKTagsView
+   * https://github.com/amrangry/TagsCollection
+
+<p align="center">
+  <img src ="https://github.com/amrangry/TagsCollection/blob/main/logo.png?raw=true"/>
+</p>
+     
    * https://github.com/dave-pang/TagStyledView
+     
 ![](Screenshot/demo.gif)
+
    * https://github.com/MakwanaRohit/ARSelectableView
    * https://www.cocoacontrols.com/controls/tagview-in-swift
 #### bubble-pictures : https://www.cocoacontrols.com/controls/bubble-pictures-07d2c9b4-d768-485f-ac2e-b54dcb9c4189
@@ -256,7 +264,7 @@ My Open Projects
  * https://github.com/amrangry/iCar
  * https://github.com/amrangry/zadcall_voximplant_ios_demo
  * https://github.com/amrangry/iOS_Firebase_PushNotification_Sample
- *
+ * https://github.com/amrangry/TagsCollection
 
  
  
