@@ -158,76 +158,75 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
   <img src="https://raw.githubusercontent.com/rechsteiner/Parchment/main/.images/example-calendar.gif" alt="Calendar Example" />
 </p>
 
-https://www.cocoacontrols.com/controls/oneway
-https://github.com/git-chglog/git-chglog
-https://github.com/amrangry/iOS_build_Issues
+ * https://www.cocoacontrols.com/controls/oneway
+ * https://github.com/git-chglog/git-chglog
+ * https://github.com/amrangry/iOS_build_Issues
 
-https://github.com/popei69/TemplateProject
-https://github.com/github/gitignore
-https://github.com/amrangry/canvas_demo
-https://github.com/amrangry/dev_macOS_environment_setup
-https://github.com/amrangry/ClockWise
-https://github.com/amrangry/amrangry.github.io
-https://github.com/amrangry/SVProgressHUD
-https://github.com/amrangry/CWRateKit
-https://github.com/amrangry/MGStarRatingView
-https://github.com/amrangry/AASignatureView
-https://github.com/amrangry/FloatRatingView
+ * https://github.com/popei69/TemplateProject
+ * https://github.com/github/gitignore
+ * https://github.com/amrangry/canvas_demo
+ * https://github.com/amrangry/dev_macOS_environment_setup
+ * https://github.com/amrangry/ClockWise
+ * https://github.com/amrangry/amrangry.github.io
+ * https://github.com/amrangry/SVProgressHUD
+ * https://github.com/amrangry/CWRateKit
+ * https://github.com/amrangry/MGStarRatingView
+ * https://github.com/amrangry/AASignatureView
+ * https://github.com/amrangry/FloatRatingView
 
-https://github.com/varun-naharia/VNImageScanner
-https://github.com/amrangry/HTML_Redirect_Screen
-https://github.com/rsrbk/GoSwifty
-https://github.com/amrangry/DesignSystem
-https://github.com/amrangry/SwiftConnect
+ * https://github.com/varun-naharia/VNImageScanner
+ * https://github.com/amrangry/HTML_Redirect_Screen
+ * https://github.com/rsrbk/GoSwifty
+ * https://github.com/amrangry/DesignSystem
+ * https://github.com/amrangry/SwiftConnect
 
-https://github.com/appcoda/NSOperation-Demo
-https://github.com/opentrace-community/opentrace-ios
-https://github.com/yonaskolb/Mint
-https://github.com/SnapKit/SnapKit
-https://github.com/amrangry/DynamicLink
-https://github.com/schmidyy/Loaf
-https://github.com/optonaut/ActiveLabel.swift
-https://github.com/Ramotion/animated-tab-bar
-https://github.com/Yalantis/Koloda
-https://github.com/kerollesroshdi/KRTabBar
-https://github.com/evgenyneu/keychain-swift
-https://github.com/ActionKit/ActionKit
-https://github.com/antonyraphel/ARCarMovement
-https://github.com/nicklockwood/iCarousel
-https://github.com/amrangry/SideMenu
-https://github.com/yassram/YRPayment
+ * https://github.com/appcoda/NSOperation-Demo
+ * https://github.com/opentrace-community/opentrace-ios
+ * https://github.com/yonaskolb/Mint
+ * https://github.com/SnapKit/SnapKit
+ * https://github.com/amrangry/DynamicLink
+ * https://github.com/schmidyy/Loaf
+ * https://github.com/optonaut/ActiveLabel.swift
+ * https://github.com/Ramotion/animated-tab-bar
+ * https://github.com/Yalantis/Koloda
+ * https://github.com/kerollesroshdi/KRTabBar
+ * https://github.com/evgenyneu/keychain-swift
+ * https://github.com/ActionKit/ActionKit
+ * https://github.com/antonyraphel/ARCarMovement
+ * https://github.com/nicklockwood/iCarousel
+ * https://github.com/amrangry/SideMenu
+ * https://github.com/yassram/YRPayment
 
-https://github.com/amrangry/DynamicHeightCollectionView
-https://github.com/amrangry/GPVideoPlayer
-https://github.com/amrangry/ScreenCaptureDetector
-https://github.com/amrangry/momento
-https://github.com/MohamedHusseinIOS/tahrirLounge
+ * https://github.com/amrangry/DynamicHeightCollectionView
+ * https://github.com/amrangry/GPVideoPlayer
+ * https://github.com/amrangry/ScreenCaptureDetector
+ * https://github.com/amrangry/momento
+ * https://github.com/MohamedHusseinIOS/tahrirLounge
 
-https://github.com/amrangry/MotoShop
-https://github.com/amrangry/CI_CD_Tutorial
-https://github.com/amrangry/tranxit_user
-https://github.com/amrangry/Tranxit_Driver
-https://github.com/amrangry/Awoon_iOS
+ * https://github.com/amrangry/MotoShop
+ * https://github.com/amrangry/CI_CD_Tutorial
+ * https://github.com/amrangry/tranxit_user
+ * https://github.com/amrangry/Tranxit_Driver
+ * https://github.com/amrangry/Awoon_iOS
 
-https://github.com/amrangry/POSRetail_iOS
-https://github.com/amrangry/POSRetail_Php
-https://github.com/amrangry/DubaiWatchWeek_QRCode
-https://github.com/amrangry/StockApp
-https://github.com/amrangry/Financial-Dashboard_iOS
-https://github.com/amrangry/Financial-Dashboard_Php
-https://github.com/amrangry/WebBrowserApp
-https://github.com/amrangry/Seddiqi_logistics_php
-https://github.com/amrangry/Seddiqi_Logistics
+ * https://github.com/amrangry/POSRetail_iOS
+ * https://github.com/amrangry/POSRetail_Php
+ * https://github.com/amrangry/DubaiWatchWeek_QRCode
+ * https://github.com/amrangry/StockApp
+ * https://github.com/amrangry/Financial-Dashboard_iOS
+ * https://github.com/amrangry/Financial-Dashboard_Php
+ * https://github.com/amrangry/WebBrowserApp
+ * https://github.com/amrangry/Seddiqi_logistics_php
+ * https://github.com/amrangry/Seddiqi_Logistics
 
-https://github.com/amrangry/QKMRZScanner
+ * https://github.com/amrangry/QKMRZScanner
 
+ * https://github.com/amrangry/QuickDialog
+ * https://github.com/amrangry/FolioReaderKit
 
-https://github.com/amrangry/QuickDialog
-https://github.com/amrangry/FolioReaderKit
-
-https://github.com/amrangry/ePubReader
-https://github.com/amrangry/ePub_Reader_POC
-https://github.com/amrangry/ePub_Redaer_POC_2
+ * https://github.com/amrangry/ePubReader
+ * https://github.com/amrangry/ePub_Reader_POC
+ * https://github.com/amrangry/ePub_Redaer_POC_2
 
 Open Source contribution
 ---
