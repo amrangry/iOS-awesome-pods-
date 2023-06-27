@@ -37,7 +37,7 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
 #### Chat : https://github.com/khuong291/Chatto
 #### code Generator "R Swift" : https://github.com/mac-cain13/R.swift
 #### gradient (Slopy) : https://github.com/mergesort/Slope?utm_campaign=AwesomeiOS%2BWeekly&utm_medium=email&utm_source=AwesomeiOS_Weekly_9
-#### wizzling swift lumos : https://github.com/sushinoya/lumos
+#### Swizzling swift lumos : https://github.com/sushinoya/lumos
 #### VVM-C RxCoordinator Router : https://github.com/quickbirdstudios/RxCoordinator
 #### UI Rate : https://github.com/ragaie/RateBar
 #### animate : https://github.com/khuong291/MagicPresent
@@ -64,7 +64,38 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
 #### Badge :  https://github.com/MatrixSenpai/BadgeHub
 #### Calendar : https://github.com/WenchaoD/FSCalendar
 #### Localization : pod 'Localize-Swift', '~> 1.7'
-#### Alerts (SCLAlertView) : https://github.com/pmusolino/PMAlertController
+#### Alerts || Screen || Popup || Messages
+ * [SCLAlertView](https://github.com/pmusolino/PMAlertController)
+ * [popup View](https://github.com/exyte/PopupView)
+
+   <table>
+    <thead>
+        <tr>
+            <th>Floaters</th>
+            <th>Toasts</th>
+            <th>Popups</th>
+            <th>Sheets</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img src="https://raw.githubusercontent.com/exyte/media/master/PopupView/1.gif" />
+            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/exyte/media/master/PopupView/2.gif" />
+            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/exyte/media/master/PopupView/3.gif" />
+            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/exyte/media/master/PopupView/4.gif" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+   
+
 #### SwifterSwift Extensions POD : https://swifterswift.com/
 #### Debuging  https://github.com/Flipboard/FLEX
 #### Date : 
