@@ -32,21 +32,18 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
 #### Tags tag
    * https://github.com/kuler90/RKTagsView
    * https://github.com/amrangry/TagsCollection
-#### SwiftUI
-   * https://github.com/igbokwenu/ToonCards?fbclid=IwAR2Z0jiqSyMzDiFMLC1vuNK5AZgc13ggdkWwM-ep53fVkvk_B1pANZAkeao
-
-![](https://user-images.githubusercontent.com/68666335/254692352-74966072-43c1-45c7-aae3-dd57283c600f.png)
-
-<p align="center">
-  <img src ="https://github.com/amrangry/TagsCollection/blob/main/logo.png?raw=true"/>
-</p>
-     
-   * https://github.com/dave-pang/TagStyledView
-     
-![](Screenshot/demo.gif)
-
+     <p align="center">
+        <img src ="https://github.com/amrangry/TagsCollection/blob/main/logo.png?raw=true"/>
+     </p>
+  * https://github.com/dave-pang/TagStyledView  
+   ![](Screenshot/demo.gif)
    * https://github.com/MakwanaRohit/ARSelectableView
    * https://www.cocoacontrols.com/controls/tagview-in-swift
+
+#### SwiftUI
+   * https://github.com/igbokwenu/ToonCards
+![](https://user-images.githubusercontent.com/68666335/254692352-74966072-43c1-45c7-aae3-dd57283c600f.png)
+
 #### bubble-pictures : https://www.cocoacontrols.com/controls/bubble-pictures-07d2c9b4-d768-485f-ac2e-b54dcb9c4189
 #### lazy load : https://github.com/LeBzul/SimpleShimmer
 #### capture uiview : https://github.com/startry/SwViewCapture
