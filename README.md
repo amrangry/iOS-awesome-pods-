@@ -29,7 +29,7 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
         <img src ="https://raw.githubusercontent.com/FeatherCMS/feather/main/Assets/GitHub-Lead.png?raw=true">
      </p>
    * https://github.com/BinaryBirds/swift-html
-     ```
+```
      import SwiftHtml 
 
      let doc = Document(.html) {
@@ -68,12 +68,11 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
 
             Script().src("./js/main.js").async()
         }
-    }
-    }
-
+      }
+     }
      let html = DocumentRenderer(minify: false, indent: 2).render(doc)
       print(html)
-     ```
+```
 
 #### Design Pattern | Architecture
    * https://github.com/pointfreeco/swift-composable-architecture
