@@ -32,8 +32,8 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
      ```
      import SwiftHtml 
 
-let doc = Document(.html) {
-    Html {
+     let doc = Document(.html) {
+      Html {
         Head {
             Title("Hello Swift HTML DSL")
             
@@ -69,10 +69,10 @@ let doc = Document(.html) {
             Script().src("./js/main.js").async()
         }
     }
-}
+    }
 
-let html = DocumentRenderer(minify: false, indent: 2).render(doc)
-print(html)
+     let html = DocumentRenderer(minify: false, indent: 2).render(doc)
+      print(html)
      ```
 
 #### Design Pattern | Architecture
