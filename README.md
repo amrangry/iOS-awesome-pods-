@@ -23,6 +23,57 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
    * (fsnotes ) : https://github.com/glushchenko/fsnotes
    * ( Quran القراءن ) : https://github.com/quran/quran-ios
 
+#### Swift Backend
+   * https://github.com/FeatherCMS/feather
+     <p align="center">
+        <img src ="https://raw.githubusercontent.com/FeatherCMS/feather/main/Assets/GitHub-Lead.png?raw=true">
+     </p>
+   * https://github.com/BinaryBirds/swift-html
+     ```
+     import SwiftHtml 
+
+let doc = Document(.html) {
+    Html {
+        Head {
+            Title("Hello Swift HTML DSL")
+            
+            Meta().charset("utf-8")
+            Meta().name(.viewport).content("width=device-width, initial-scale=1")
+
+            Link(rel: .stylesheet).href("./css/style.css")
+        }
+        Body {
+            Main {
+                Div {
+                    Section {
+                        Img(src: "./images/swift.png", alt: "Swift Logo")
+                            .title("Picture of the Swift Logo")
+                        H1("Lorem ipsum")
+                            .class("red")
+                        P("Lorem ipsum dolor sit amet, consectetur adipiscing elit.")
+                            .class(["green", "blue"])
+                            .spellcheck(false)
+                    }
+
+                    A("Download SwiftHtml now!")
+                        .href("https://github.com/binarybirds/swift-html/")
+                        .target(.blank)
+                        .download()
+                        
+                    Abbr("WTFPL")
+                        .title("Do What The Fuck You Want To Public License")
+                }
+            }
+            .class("container")
+
+            Script().src("./js/main.js").async()
+        }
+    }
+}
+
+let html = DocumentRenderer(minify: false, indent: 2).render(doc)
+print(html)
+     ```
 
 #### Design Pattern | Architecture
    * https://github.com/pointfreeco/swift-composable-architecture
