@@ -110,6 +110,7 @@ https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-
 #### UI Rate : https://github.com/ragaie/RateBar
 #### animate : https://github.com/khuong291/MagicPresent
 #### UI slider for collection :
+   * https://github.com/shoheiyokoyama/Gemini
    * https://github.com/Yalantis/Koloda
    * https://github.com/amirdew/CollectionViewPagingLayout
 #### SVG https://github.com/SVGKit/SVGKit
