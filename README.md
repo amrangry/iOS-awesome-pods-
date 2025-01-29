@@ -369,7 +369,7 @@ Let’s keep learning and building, one step at a time.
 <details>
 <summary>MIT License.</summary>
 Distributed under MIT License.
-Copyright 2025 Amr Elghadban
+Copyright 2025 © Amr Elghadban
 </details>
 
 
