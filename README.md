@@ -15,6 +15,7 @@ https://github.com/ProxymanApp/atlantis
 https://ignatiojulian.medium.com/build-modularization-ios-application-dff1b69adf83
 https://medium.com/@wil.barriost/ios-clean-architecture-my-way-on-a-very-simple-feature-mvvm-repository-urlsession-swift-678cfe4301f0
 
+#### Swift UI Animation: https://github.com/Shubham0812/SwiftUI-Animations
 #### Markdown Cheatsheet : https://github.com/tchapi/markdown-cheatsheet
 #### ios-swift-libraries : https://infinum.co/the-capsized-eight/top-10-ios-swift-libraries-every-ios-developer-should-know-about
 #### Open Source iOS Project :
